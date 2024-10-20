@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351144536196",
+    "project_id": "secuirtyapp-4a065",
+    "storage_bucket": "secuirtyapp-4a065.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351144536196:android:aabdd7097453ea3d947ad1",
+        "android_client_info": {
+          "package_name": "com.protectify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKvPexqb2zm99rhFEHkdMeszL6YZ6ZjAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
